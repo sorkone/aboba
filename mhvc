@@ -1,0 +1,35 @@
+<html
+ <title> Киберспорт. турнир </title>
+    <body>
+        <header>
+             <h1> Киберспорт. турнир </h1>
+             <img src="https://s0.rbk.ru/v6_top_pics/media/img/0/31/755667436022310.jpg">
+        </header>
+        <main>
+             <h2>О турнире </h2>
+             <p> Турнир разделен на три тура. 1 тур-1ч. 2 тур-1ч. 3 тур-2ч.
+             В каждом туре выбирается одна из игр рандомно:World Of Warcraft,
+             Dota2,LoL.</p>
+             <h2>Дата проведения </h2>
+             <table>
+                 <tr>
+                    <td>12.6</td>
+                    <td>14.6</td>
+                    <td>16.6</td>
+                 </tr>
+                 <tr>
+                    <td>1 тур</td>
+                    <td>2 тур</td>
+                    <td>3 тур</td>
+                 </tr>
+             </table>
+             <h2>Наши участники </h2>
+             <p> Команды Natus Vincere,AQM,Gambit.</p>
+        </main>
+        <footer>
+            <h3><i>Адрес</i></h3>
+            <p> Улица Беброва,Дом 1505</p>
+            <h3><i>Заказать билеты<i></h3>
+        </footer>
+    </body>
+</html>
